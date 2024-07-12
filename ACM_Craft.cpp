@@ -7,7 +7,6 @@
 #include <map>
 #include <set>
 
-#pragma warning(disable: 4996)
 
 using namespace std;
 
