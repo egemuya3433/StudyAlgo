@@ -1,6 +1,12 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,java,c++,executable,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,java,c++,executable,macos
 
+# Ignore all
+*
+!*.*
+!*/
+
+
 ### C++ ###
 # Prerequisites
 *.d
